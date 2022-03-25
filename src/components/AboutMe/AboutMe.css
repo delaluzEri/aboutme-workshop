@@ -1,0 +1,16 @@
+.AboutMe {
+    text-align: center;
+}
+.AboutMe-title {
+    text-transform: uppercase;
+    color: var(--accent-color);
+    font-weight: 400;
+    letter-spacing: .5rem; /* 16/2 = 5 px*/
+}
+.AboutMe-shortDescription {
+    
+}
+.AboutMe-longDescription {
+    line-height: 2rem;
+    text-align: justify;
+}
